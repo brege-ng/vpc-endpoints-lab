@@ -1,0 +1,7 @@
+service_name_endpoint1 = "com.amazonaws.us-east-1.dynamodb"
+service_name_endpoint2 = "com.amazonaws.us-east-1.monitoring"
+instance_type = "t3.micro"
+ami_id = "ami-0fef201115eefe936"
+cidr_block_public = "10.0.1.0/24"
+cidr_block_private = "10.0.2.0/24"
+cidr_block_vpc = "10.0.0.0/16"
